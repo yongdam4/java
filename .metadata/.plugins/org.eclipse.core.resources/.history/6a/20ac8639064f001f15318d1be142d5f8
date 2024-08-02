@@ -1,0 +1,37 @@
+package farm.test;
+
+public class Furit extends Farm{
+
+	private String name;
+
+	public Furit() {
+		super();
+	}
+
+	public Furit(String kind ,String name) {
+		super(kind);
+		this.name = name;
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	@Override
+	public String toString() {
+		return "Furit [name=" + name + "]";
+	}
+	
+	public int hashCode() {
+		return 0;
+	}
+	
+	public boolean equals() {
+		return false;
+	}
+	
+}

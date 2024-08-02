@@ -1,0 +1,9 @@
+package q.threadchat;
+
+public class ClientRecieve {
+
+	public ClientRecieve() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

@@ -1,0 +1,9 @@
+package eat;
+
+public class Filebyte {
+
+	public Filebyte() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

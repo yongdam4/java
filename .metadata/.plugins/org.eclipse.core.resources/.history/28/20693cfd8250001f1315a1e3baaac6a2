@@ -1,0 +1,16 @@
+package eat;
+
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+
+public class Filebyte {
+
+	public void FileSave(String fileName) {
+		try {
+			FileOutputStream fout = new FileOutputStream("byte_test.txt", true);
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		}
+	}
+
+}

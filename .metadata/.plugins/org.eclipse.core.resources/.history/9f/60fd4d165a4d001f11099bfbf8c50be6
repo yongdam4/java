@@ -1,0 +1,9 @@
+package o.collection.map;
+
+public class Snack {
+
+	public Snack() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

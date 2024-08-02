@@ -1,0 +1,9 @@
+package test240730.map;
+
+public class Run {
+
+	public Run() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

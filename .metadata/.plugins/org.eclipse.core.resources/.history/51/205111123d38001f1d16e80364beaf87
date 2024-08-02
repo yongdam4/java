@@ -1,0 +1,30 @@
+package d.roof;
+import java.util.Scanner;
+
+public class D_while {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+	
+		int i = 0;
+		while(i < 5) {
+			System.out.println("안녕하세요");
+			i++;
+		}
+		
+		
+		
+		
+		
+		
+		/*
+		 * while 문
+		 * [표현법]
+		 * 
+		 * [초기식]
+		 * while(조건식){
+		 * 반복할 코드
+		 * 증감식;
+		 * }
+		 */
+	}
+}

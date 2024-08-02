@@ -1,0 +1,9 @@
+package farm.test;
+
+public class FarmController {
+
+	public FarmController() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

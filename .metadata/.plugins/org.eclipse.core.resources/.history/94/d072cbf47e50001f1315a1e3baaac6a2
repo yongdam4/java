@@ -1,0 +1,10 @@
+package eat;
+
+public class Run {
+
+	public static void main(String[] args) {
+		FileSave fs = new FileSave();
+		fs.FileSave("사과");
+	}
+
+}

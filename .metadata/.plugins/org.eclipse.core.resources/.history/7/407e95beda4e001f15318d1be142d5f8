@@ -1,0 +1,9 @@
+package q.thread.ex01;
+
+public class MyRunable {
+
+	public MyRunable() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

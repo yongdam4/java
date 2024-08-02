@@ -1,0 +1,9 @@
+package q.threadchat;
+
+public class ServerSend {
+
+	public ServerSend() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

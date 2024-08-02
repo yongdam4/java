@@ -1,0 +1,9 @@
+package networkzz;
+
+public class Clientnet {
+
+	public Clientnet() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

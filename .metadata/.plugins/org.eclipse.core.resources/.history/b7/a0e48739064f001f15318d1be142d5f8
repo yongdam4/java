@@ -1,0 +1,9 @@
+package farm.test;
+
+public class Vegetable {
+
+	public Vegetable() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

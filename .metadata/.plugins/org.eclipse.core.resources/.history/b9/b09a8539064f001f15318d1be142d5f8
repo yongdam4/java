@@ -1,0 +1,9 @@
+package farm.test;
+
+public class Furit {
+
+	public Furit() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

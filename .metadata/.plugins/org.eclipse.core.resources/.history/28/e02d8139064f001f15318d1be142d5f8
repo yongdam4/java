@@ -1,0 +1,9 @@
+package farm.test;
+
+public class FarmMenu {
+
+	public FarmMenu() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

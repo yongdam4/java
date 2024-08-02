@@ -1,0 +1,9 @@
+package test240730.map;
+
+public class MemberMenu {
+
+	public MemberMenu() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

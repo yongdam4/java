@@ -1,0 +1,9 @@
+package o.collection.map;
+
+public class MapRun {
+
+	public MapRun() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

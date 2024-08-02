@@ -1,0 +1,9 @@
+package q.thread.ex02;
+
+public class Task1 {
+
+	public Task1() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

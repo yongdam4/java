@@ -1,0 +1,11 @@
+package eat;
+
+public class FileSave {
+
+	public void fileSave(String fileName) {
+		Food fd = new Food("사과", 20);
+		fd.toString();
+		
+	}
+
+}

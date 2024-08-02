@@ -1,0 +1,12 @@
+package ex01240719;
+
+import e.array.Ttt;
+
+public class Ttt2 {
+
+	public static void main(String[] args) {
+		Ttt d = new Ttt();
+		d.setRadius(3.1);
+		d.draw();
+	}
+}

@@ -1,0 +1,9 @@
+package q.threadchat;
+
+public class ClientSend {
+
+	public ClientSend() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
